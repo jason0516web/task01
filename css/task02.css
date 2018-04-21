@@ -1,7 +1,7 @@
 .abc
-{margin: 1vw;
-    height: 30vw;
-    width:30vw;
+{
+    margin:1%;
+    padding:15%;
     border-radius:20%;
-    background-color: red;
+    background-color: orange;
     float: left;}
